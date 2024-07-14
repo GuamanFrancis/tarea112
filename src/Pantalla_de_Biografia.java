@@ -38,8 +38,8 @@ public class Pantalla_de_Biografia extends JFrame{
 
     public void  Iniciar (){
         setVisible(true);
+        setSize(800,500);
         setLocationRelativeTo(null);
-        setSize(500,400);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 

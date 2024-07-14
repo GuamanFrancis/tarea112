@@ -5,7 +5,9 @@
     <constraints>
       <xy x="20" y="20" width="500" height="495"/>
     </constraints>
-    <properties/>
+    <properties>
+      <background color="-2103297"/>
+    </properties>
     <border type="none"/>
     <children>
       <component id="49619" class="javax.swing.JLabel">
@@ -89,7 +91,9 @@
             <preferred-size width="150" height="-1"/>
           </grid>
         </constraints>
-        <properties/>
+        <properties>
+          <text value=""/>
+        </properties>
       </component>
       <vspacer id="35bda">
         <constraints>
@@ -101,15 +105,6 @@
           <grid row="11" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
         </constraints>
       </vspacer>
-      <component id="f37f6" class="javax.swing.JButton" binding="ingresarButton" default-binding="true">
-        <constraints>
-          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
-        </constraints>
-        <properties>
-          <font name="Consolas" size="15" style="2"/>
-          <text value="Ingresar"/>
-        </properties>
-      </component>
       <component id="2e69c" class="javax.swing.JLabel">
         <constraints>
           <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
@@ -117,6 +112,15 @@
         <properties>
           <icon value="Imagenes/epn-logo-2E1980F141-seeklogo.com.gif"/>
           <text value=""/>
+        </properties>
+      </component>
+      <component id="f37f6" class="javax.swing.JButton" binding="ingresarButton" default-binding="true">
+        <constraints>
+          <grid row="10" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font name="Consolas" size="15" style="2"/>
+          <text value="Ingresar"/>
         </properties>
       </component>
     </children>

@@ -5,7 +5,9 @@
     <constraints>
       <xy x="20" y="20" width="1981" height="1253"/>
     </constraints>
-    <properties/>
+    <properties>
+      <background color="-2103297"/>
+    </properties>
     <border type="none"/>
     <children>
       <component id="c0b4b" class="javax.swing.JLabel">
@@ -14,7 +16,8 @@
         </constraints>
         <properties>
           <font name="Consolas" size="20" style="2"/>
-          <text value="Hobbies del usuario"/>
+          <foreground color="-1765365"/>
+          <text value="Hobbies de Juan"/>
         </properties>
       </component>
       <component id="3b02f" class="javax.swing.JLabel">
@@ -23,7 +26,7 @@
         </constraints>
         <properties>
           <font name="Consolas" size="15" style="2"/>
-          <text value="Su hobbie preferido es el:&#10;&#10;fgd"/>
+          <text value="Su hobbie preferido es: Correr"/>
         </properties>
       </component>
       <vspacer id="b8c87">

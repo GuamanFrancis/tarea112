@@ -32,8 +32,8 @@ public class Pantalla_de_hobbies extends JFrame{
 
     public void  Iniciar (){
         setVisible(true);
+        setSize(700,700);
         setLocationRelativeTo(null);
-        setSize(700,600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 

@@ -5,7 +5,9 @@
     <constraints>
       <xy x="20" y="20" width="4922" height="465"/>
     </constraints>
-    <properties/>
+    <properties>
+      <background color="-2103297"/>
+    </properties>
     <border type="none"/>
     <children>
       <component id="6646e" class="javax.swing.JLabel">
@@ -14,6 +16,7 @@
         </constraints>
         <properties>
           <font name="Consolas" size="20" style="2"/>
+          <foreground color="-1765365"/>
           <text value="Pantalla de biografia"/>
         </properties>
       </component>
@@ -37,13 +40,13 @@
       </component>
       <component id="689b6" class="javax.swing.JLabel">
         <constraints>
-          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <grid row="1" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="1" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <font name="Courier New" size="10" style="2"/>
           <horizontalAlignment value="0"/>
           <horizontalTextPosition value="0"/>
-          <text value="&lt;html&gt;Juan Pérez, nacido en 2002 en Quito, Ecuador, es estudiante de tercer año de&lt;p&gt; Ingeniería Informática en la Universidad Central del Ecuador. Desde joven, mostró&lt;p&gt; un gran interés por la tecnología y las ciencias exactas, lo que lo llevó a elegir su carrera universitaria. &lt;p&gt; Destaca por su excelente desempeño académico y su participación en proyectos y &lt;p&gt; competencias de programación. Ha trabajado en el desarrollo de aplicaciones &lt;p&gt; móviles y proyectos de código abierto,&lt;p&gt; con un especial interés en la inteligencia&lt;p&gt; artificial y el aprendizaje automático.&lt;p&gt;  Fuera del ámbito académico, Juan disfruta del ajedrez y tocar la guitarra. &lt;p&gt;Con planes de continuar sus estudios de posgrado, Juan aspira a especializarse en&lt;p&gt; inteligencia artificial para desarrollar tecnologías innovadoras y de impacto&lt;p&gt; positivo.&lt;html&gt;"/>
+          <text value="&lt;html&gt;Es una biografia ficticia sobre Juan Pérez, nacido en 2002 en Quito, Ecuador, es estudiante de tercer año de&lt;p&gt; Ingeniería Informática en la Universidad Central del Ecuador. Desde joven, mostró&lt;p&gt; un gran interés por la tecnología y las ciencias exactas, lo que lo llevó a elegir su carrera universitaria. &lt;p&gt; Destaca por su excelente desempeño académico y su participación en proyectos y &lt;p&gt; competencias de programación. Ha trabajado en el desarrollo de aplicaciones &lt;p&gt; móviles y proyectos de código abierto,&lt;p&gt; con un especial interés en la inteligencia&lt;p&gt; artificial y el aprendizaje automático.&lt;p&gt;  Fuera del ámbito académico, Juan disfruta del ajedrez y tocar la guitarra. &lt;p&gt;Con planes de continuar sus estudios de posgrado, Juan aspira a especializarse en&lt;p&gt; inteligencia artificial para desarrollar tecnologías innovadoras y de impacto&lt;p&gt; positivo.&lt;html&gt;"/>
           <verticalTextPosition value="0"/>
         </properties>
       </component>
